@@ -1,0 +1,18 @@
+OPERATORI RELAZIONALI 
+- and ,< , > , |, & 
+DIVERSO tilde=
+NOT tilde 
+confrontare quantità
+
+vero e falso --> 1, 0
+
+NB --> help con parola chiave per nome del comando che mi interessa 
+
+OR -> è visto come un metodo --> ogni operatore relazionale	
+	ha una funzione corrispondente 
+- Confronto vettori elemento per elemento 
+
+comando LENGTH --> mi ritorna il max tra righe e colonne --> per i vettori è perfetto 
+
+
+Funzioni inline

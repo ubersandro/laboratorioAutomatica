@@ -1,0 +1,10 @@
+- salvare un ws in un file --> SAVE file
+- caricare --> LOAD 
+- salvare alcune variabili ---> save FILE VAR1 VAR2 ... VAR N (vale anche per LOAD) 
+- GRAFICI 
+- funzione PLOT 
+- tex e latex --> interpreti di MATLAB 
+- meglio includere tutte le opzioni grafico nel plot 
+- vedi programma che fa il clear della memoria run 
+- fai versione ricorsiva del metodo bisezione, fai versione con tolleranza
+
