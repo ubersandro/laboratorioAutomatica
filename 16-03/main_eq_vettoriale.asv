@@ -7,7 +7,7 @@ close all
 M = [2,1,5;-3,-2,-8;3,3,2];%3x3
 v = @(x)[exp(-2*x);2*exp(-2*x)-cos(3*x);cos(3*x)]; %1x3
 
-f = @(x,y)(M*y+v(x)); 
+f = @(x,y)(M*y'+v(x)); %3x3 * 1x3 --> NO con trasposto --> 3x 
 y0(1) = 1;
 y0(2) = -1;
 y0(3) = 0;
